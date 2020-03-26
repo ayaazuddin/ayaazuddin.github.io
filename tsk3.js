@@ -20,7 +20,7 @@ button1.addEventListener("click",function()
     vow_count = 0;
     con_count = 0;
     space_count = 0;
-    spc = 0;
+    spc_count = 0;
     for(var j=0 ; j < strin.value.length ; j++)
     {
         for (var i=0; i<41 ; i++)        
