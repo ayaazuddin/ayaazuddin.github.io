@@ -1,4 +1,3 @@
-
 var strin = document.getElementById("strin");
 var button1 = document.querySelector("button");
 var vowe = document.getElementById("vow");
